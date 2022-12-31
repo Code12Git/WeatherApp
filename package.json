@@ -288,7 +288,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js -e js,hbs"
+
   },
   "author": "",
   "license": "ISC"
