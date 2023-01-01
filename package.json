@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "amdefine": "^1.0.1",
     "abbrev": "^1.1.1",
